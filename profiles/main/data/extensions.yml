@@ -1,0 +1,86 @@
+disabled: []
+enabled:
+  - id: apoorvkhare07.andromeda-vscode
+    uuid: d2c8e751-b5f9-4e42-8328-062ea2f807e2
+  - id: batisteo.vscode-django
+    uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
+  - id: DavidAnson.vscode-markdownlint
+    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
+  - id: donjayamanne.python-environment-manager
+    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
+  - id: donjayamanne.python-extension-pack
+    uuid: f5188937-53e0-45bb-a16d-61231003fa3b
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: ecmel.vscode-html-css
+    uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: Equinusocio.moxer-icons
+    uuid: 1766b3b1-32a4-4d6c-b7b4-6d72871ebd21
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: glenn2223.live-sass
+    uuid: 137c3643-510d-4a1f-a737-793c72e8b411
+  - id: HTMLHint.vscode-htmlhint
+    uuid: d0a9daff-de6d-4669-a30b-14a49a1a17e0
+  - id: humao.rest-client
+    uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
+  - id: KevinRose.vsc-python-indent
+    uuid: f3cbfb84-b1e1-40ff-b70f-877253461260
+  - id: marp-team.marp-vscode
+    uuid: a6226409-c077-4199-9efe-5fd4d91a253d
+  - id: mgmcdermott.vscode-language-babel
+    uuid: dd5a2c83-ad8c-4839-a529-0644e5acb646
+  - id: miguelsolorio.fluent-icons
+    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-dotnettools.csdevkit
+    uuid: 7ad42776-8f7e-4214-bf67-4f0b518ef629
+  - id: ms-dotnettools.csharp
+    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: negokaz.live-server-preview
+    uuid: 568a8977-8469-4f89-b30d-8d5e3c7a0ce7
+  - id: njpwerner.autodocstring
+    uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: NoahBeij.marp-codecafe-snippets
+    uuid: ada180e8-772f-4317-9656-7125a0b2ce1f
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: tlgkccampbell.code-ca65
+    uuid: 0585c3b0-418a-4d21-8fd2-cee02b99c84e
+  - id: vintharas.learn-vim
+    uuid: 159d930e-fdd0-42de-bbf8-5f62686e83a7
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: wholroyd.jinja
+    uuid: c941a679-d500-46a8-b2a9-208063125901
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: yandeu.five-server
+    uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
+  - id: ysemeniuk.emmet-live
+    uuid: d9a418aa-8502-487d-a3f3-aa19b441c276
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

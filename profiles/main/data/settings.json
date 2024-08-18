@@ -1,0 +1,71 @@
+{
+    // Change font
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "workbench.settings.editor": "json",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    
+    "html.autoClosingTags": true,
+    "css.enabledLanguages": [
+        "html"
+    ],
+    "css.hover.documentation": true,
+    "scss.hover.documentation": true,
+    "css.hover.references": true,
+    "workbench.colorTheme": "Andromeda",
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "workbench.iconTheme": "moxer-icons",
+    "editor.linkedEditing": true,
+    "diffEditor.wordWrap": "on",
+    "workbench.productIconTheme": "fluent-icons",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "tabnine.experimentalAutoImports": true,
+    "git.autofetch": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.defaultDateLocale": "system",
+    "gitlens.defaultDateFormat": null,
+    "gitlens.defaultDateShortFormat": null,
+    "gitlens.defaultTimeFormat": null,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.statusBar.format": "${agoOrDate}${' via 'pullRequest}, ${message}",
+    "liveSassCompile.settings.autoprefix": [
+        ">1%",
+        "last two versions"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "liveSassCompile.settings.rootIsWorkspace": null,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": null,
+            "savePathReplacementPairs": null
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "markdown.marp.enableHtml": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.confirmSync": false,
+    "workbench.startupEditor": "none",
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.associations.folderDefault.root_folder": null,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+}
